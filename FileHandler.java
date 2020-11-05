@@ -4,6 +4,9 @@ import java.util.List;
 import java.util.Map;
 
 public class FileHandler {
+    /* This class deals with opening and closing the file, reading and writing to the file, and creating a new file if
+     *  necessary
+     */
 
     // List that contains each line in the file
     List<String> grades = new ArrayList<>();
