@@ -3,6 +3,9 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Student {
+    /* This class deals with information related to the student entering grades
+     *
+     */
 
     Scanner scan = new Scanner(System.in);
     // Student name
