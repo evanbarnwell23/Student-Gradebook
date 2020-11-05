@@ -2,6 +2,11 @@ import java.io.IOException;
 import java.util.*;
 
 public class Main {
+    /* This is the main class
+     *
+     * @param args
+     * @throws IOException
+     */
 
     public static void main(String[] args) throws IOException {
         Scanner scan = new Scanner(System.in);
