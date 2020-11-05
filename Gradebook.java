@@ -4,6 +4,9 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Gradebook {
+    /* This class handles most of the work when it comes to dealing with/calculating grades
+     *
+     */
 
     // Array of courses students can enter grades for
     final String[] COURSES = {"ECO 3203", "MAC 2313", "COP 2006", "ECO 3101", "IDS 3920"};
